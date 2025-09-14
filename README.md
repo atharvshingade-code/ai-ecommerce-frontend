@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <h1><img src="https://gocartshop.in/favicon.ico" width="20" height="20" alt="GoCart Favicon">
    GoCart</h1>
